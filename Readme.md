@@ -1,5 +1,5 @@
 # Number Guessing Game
-
+project URL = https://roadmap.sh/projects/number-guessing-game
 A simple command-line number guessing game written in Go. The player tries to guess a randomly generated number within a specified range and difficulty level.
 
 ## Features
